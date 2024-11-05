@@ -2,8 +2,12 @@
 
 /* переменные*/
 :root {
-  --color-fon: #e64a4a;
+  --color-fon: #eaeaea;
   --color-text: #131313;
+  --color-menu: purple;
+  --color-menu-text: white;
+  --color-footer: purple;
+  --color-footer-text: white;
 }
 * {
   margin: 0;
@@ -12,20 +16,34 @@
 html {
     margin: 0;
     font-size: 10px;
+    background-color: grey;
 }
 
 body {
-  border: 0.2rem solid magenta;
+  border: 0.2rem solid yellow;
   border-radius: 1rem;
   padding: 1.5rem;
   background-color: var(--color-fon)!important;
   color: var(--color-text)!important;
   font-family: 'Montserrat', sans-serif;
+  font-size: 1.6rem;
   font-weight: 300;
 }
 
 .wrapper {
   width: 100%;
-  margin: 5rem auto;
-  padding: 0.2rem 2rem;
+  margin: 0 auto 5rem auto;
+  #padding: 0.2rem 2rem;
 }
+
+header {
+  background-color: var(--color-menu);
+  color: var(--color-menu-text);
+}
+
+h1 {
+  color: var(--color-text)!important;
+  margin-top: 1rem;
+  margin-bottom: 0.6rem;
+}
+
