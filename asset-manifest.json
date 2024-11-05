@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/shopass/static/css/main.811e0331.css",
-    "main.js": "/shopass/static/js/main.b2a9a9fb.js",
+    "main.css": "/shopass/static/css/main.b70d42ae.css",
+    "main.js": "/shopass/static/js/main.cff1364e.js",
+    "static/media/Logo_mart.png": "/shopass/static/media/Logo_mart.8d1c0b215ba8c4877f15.png",
     "index.html": "/shopass/index.html",
-    "main.811e0331.css.map": "/shopass/static/css/main.811e0331.css.map",
-    "main.b2a9a9fb.js.map": "/shopass/static/js/main.b2a9a9fb.js.map"
+    "main.b70d42ae.css.map": "/shopass/static/css/main.b70d42ae.css.map",
+    "main.cff1364e.js.map": "/shopass/static/js/main.cff1364e.js.map"
   },
   "entrypoints": [
-    "static/css/main.811e0331.css",
-    "static/js/main.b2a9a9fb.js"
+    "static/css/main.b70d42ae.css",
+    "static/js/main.cff1364e.js"
   ]
 }
