@@ -19,6 +19,7 @@ body {
   border-radius: 1rem;
   padding: 1.5rem;
   background-color: var(--color-fon);
+  background-color: #ffdbdb;
   color: var(--color-text);
   font-family: 'Montserrat', sans-serif;
   font-weight: 300;
