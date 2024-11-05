@@ -13,6 +13,7 @@ html {
 }
 
 body {
+  border: 1px solid magenta;
   background-color: var(--color-fon);
   color: var(--color-text);
 }
