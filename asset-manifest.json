@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shopass/static/css/main.3e535861.css",
+    "main.js": "/shopass/static/js/main.66c7dbc7.js",
+    "index.html": "/shopass/index.html",
+    "main.3e535861.css.map": "/shopass/static/css/main.3e535861.css.map",
+    "main.66c7dbc7.js.map": "/shopass/static/js/main.66c7dbc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e535861.css",
+    "static/js/main.66c7dbc7.js"
+  ]
+}
