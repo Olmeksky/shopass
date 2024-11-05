@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function footer() {
+export default function Footer() {
   return (
     <footer>
-        Все права охраняются "дай боже". &copy;
+      Все права охраняются "дай боже". &copy;
     </footer>
   )
 }
