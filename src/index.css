@@ -13,6 +13,6 @@ html {
 }
 
 body {
-  background: var(--color-fon);
+  background-color: var(--color-fon);
   color: var(--color-text);
 }
