@@ -20,4 +20,11 @@ body {
   padding: 1.5rem;
   background-color: var(--color-fon);
   color: var(--color-text);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+}
+
+.wrapper {
+  width: 100%;
+  margin: 5rem auto;
 }
