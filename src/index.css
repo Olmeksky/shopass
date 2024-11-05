@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,400;0,600;1,100;1,200&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100;1,500&display=swap');
 
 :root {
-  --color-fon: #eaeaea;
+  --color-fon: #e64a4a;
+  --color-text: #131313;
 }
 * {
   margin: 0;
@@ -13,4 +14,5 @@ html {
 
 body {
   background: var(--color-fon);
+  color: var(--color-text);
 }
