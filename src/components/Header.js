@@ -5,7 +5,7 @@ export default function Header() {
     <header>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
           <div class="container">
-            <span className='logo'>SHOP AS LAND</span>
+            <span className='logo'>SHOP ASS LAND</span>
             <div className='presentation'></div>
 
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
