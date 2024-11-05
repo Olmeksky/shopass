@@ -1,11 +1,12 @@
 import React from 'react'
+import myLogo from '../img/Logo_mart.png';
 
 export default function Header() {
   return (
     <header>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
           <div class="container">
-            <span className='logo'>SHOP ASS LAND</span>
+            <img class="logo_img" src={myLogo} alt="" />
             <div className='presentation'></div>
 
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">

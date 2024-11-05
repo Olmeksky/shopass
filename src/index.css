@@ -15,14 +15,12 @@
 }
 html {
     margin: 0;
-    font-size: 10px;
+    font-size: 20px;
     background-color: grey;
 }
 
 body {
-  border: 0.2rem solid yellow;
-  border-radius: 1rem;
-  padding: 1.5rem;
+  border: 0.2rem solid orange;
   background-color: var(--color-fon)!important;
   color: var(--color-text)!important;
   font-family: 'Montserrat', sans-serif;
@@ -36,14 +34,26 @@ body {
   #padding: 0.2rem 2rem;
 }
 
-header {
-  background-color: var(--color-menu);
-  color: var(--color-menu-text);
+.logo_img {
+  margin: 0;
+  display: block;
+  width: 4rem;
+  height: 3.4rem;
+
 }
 
-h1 {
-  color: var(--color-text)!important;
-  margin-top: 1rem;
-  margin-bottom: 0.6rem;
+.presentation {
+  margin: 0;
+}
+
+header {
+  #background-color: var(--color-menu);
+  #color: var(--color-menu-text);
+}
+
+h1.hero_title {
+  color: var(--color-text);
+  margin-top: 2rem;
+  margin-bottom: 1.6rem;
 }
 
