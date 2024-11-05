@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,400;0,600;1,100;1,200&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100;1,500&display=swap');
 
+/* переменные*/
 :root {
   --color-fon: #e64a4a;
   --color-text: #131313;
@@ -10,10 +11,13 @@
 }
 html {
     margin: 0;
+    font-size: 10px;
 }
 
 body {
-  border: 1px solid magenta;
+  border: 0.2rem solid magenta;
+  border-radius: 1rem;
+  padding: 1.5rem;
   background-color: var(--color-fon);
   color: var(--color-text);
 }
