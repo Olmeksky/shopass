@@ -18,9 +18,8 @@ body {
   border: 0.2rem solid magenta;
   border-radius: 1rem;
   padding: 1.5rem;
-  background-color: var(--color-fon);
-  background-color: #ffdbdb;
-  color: var(--color-text);
+  background-color: var(--color-fon)!important;
+  color: var(--color-text)!important;
   font-family: 'Montserrat', sans-serif;
   font-weight: 300;
 }
