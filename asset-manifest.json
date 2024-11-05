@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/shopass/static/css/main.3e535861.css",
-    "main.js": "/shopass/static/js/main.66c7dbc7.js",
+    "main.css": "/shopass/static/css/main.2587dd4a.css",
+    "main.js": "/shopass/static/js/main.b2a9a9fb.js",
     "index.html": "/shopass/index.html",
-    "main.3e535861.css.map": "/shopass/static/css/main.3e535861.css.map",
-    "main.66c7dbc7.js.map": "/shopass/static/js/main.66c7dbc7.js.map"
+    "main.2587dd4a.css.map": "/shopass/static/css/main.2587dd4a.css.map",
+    "main.b2a9a9fb.js.map": "/shopass/static/js/main.b2a9a9fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e535861.css",
-    "static/js/main.66c7dbc7.js"
+    "static/css/main.2587dd4a.css",
+    "static/js/main.b2a9a9fb.js"
   ]
 }
