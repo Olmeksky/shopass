@@ -14,16 +14,9 @@ export default function Header() {
             </button>
             <div class="collapse navbar-collapse" id="navbarScroll">
               <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll">
-                <li class="nav-item"><a class="nav-link active" aria-current="page" href="/">Гадание</a></li>
-                <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="/" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Матрицы судьбы</a>
-                <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
-                  <li><a class="dropdown-item" href="/personal/">Персональная</a></li>
-                  <li><a class="dropdown-item" href="/personal-dark/">Персональная (темная)</a></li>
-                  <li><a class="dropdown-item" href="/sovmestimost/">Совместимости</a></li>
-                  <li><a class="dropdown-item" href="/sovmestimost-dark/">Совместимости (темная)</a></li>
-                </ul>
-                </li>
+                <li class="nav-item">О нас</li>
+                <li class="nav-item">Контакты</li>
+                <li class="nav-item">Кабинет</li>
               </ul>
               <div class="top-nav_search">форма поиска</div>
             </div>

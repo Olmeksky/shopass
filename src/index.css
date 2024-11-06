@@ -30,10 +30,12 @@ body {
 
 .wrapper {
   width: 100%;
-  margin: 0 auto 5rem auto;
+  margin: 0 auto;
   #padding: 0.2rem 2rem;
 }
-
+.hide_block {
+  display: none;
+}
 .logo_img {
   margin: 0;
   display: block;
@@ -57,3 +59,78 @@ h1.hero_title {
   margin-bottom: 1.6rem;
 }
 
+/* FOOTER */
+.footer {
+	background: var(--color-footer) url("./img/fon_footer2.jpg") no-repeat center / cover;
+	color: #666666;
+	padding: 5.9rem 0;
+}
+
+.footer p {
+	margin-bottom: 14px;
+}
+.copy p {
+	font-weight: 700;
+}
+.footer-policy {
+	display: block;
+	font-size: 0.6rem;
+}
+.footer small {
+	display: block;
+	margin-top: 1.5rem;
+	line-height: 0.6rem;
+	font-size: 0.5rem;
+}
+.footer_menu {
+	padding: 1.5rem;
+}
+.footer a {
+	color: #666 !important;
+	text-decoration: none !important;
+}
+.footer a:hover {
+	color: #fff !important;
+}
+
+.footer ul {
+	padding: 0;
+	list-style: none;
+}
+.footer ul li {
+	line-height: 3.2rem;
+}
+.footer-contacts_phone {
+	font-weight: 700;
+	font-size: 2rem;
+	color: #e0ab42;
+}
+.footer-contacts, .footer-social {
+	text-align: right;
+}
+.footer-social li {
+	display: inline-block;
+	width: 3.5rem;
+	margin-left: 1.5rem;
+}
+.footer-social li:hover {
+	opacity: 0.7;
+	transform: translateY(2px);
+	transition: all 0.2s;
+}
+.footer-social li img {
+	width: 3.5rem;
+}
+
+.contact-social {
+	text-align: left;
+	margin: 3rem 0;
+}
+.contact-social ul li {
+	display: inline-block;
+	width: 3.5rem;
+	margin-right: 1.5rem;
+	padding: 0;
+	box-shadow: none;
+	border-left: none;
+}
